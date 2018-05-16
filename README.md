@@ -14,6 +14,7 @@ PandaOCR - 更适合游戏的OCR
 5. 有道翻译略有瑕疵，谷歌翻译更准确【推荐谷歌翻译】
 
 下载：
+
 https://github.com/miaomiaosoft/PandaOCR/releases
 
 ![image](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/001.jpg)
