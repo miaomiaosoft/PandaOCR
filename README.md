@@ -14,6 +14,7 @@ PandaOCR - 更适合游戏的OCR
 3. 百度OCR需要自行申请KEY，申请后替换配置文件中的BD_OCR_id和BD_OCR_secret数值，申请地址：https://cloud.baidu.com/product/ocr
 4. 搜狗OCR对图片大小有限制，大概宽度小于80或高度小于60的截图/图片将不识别，百度OCR无此限制【推荐百度OCR】
 5. 有道翻译略有瑕疵，谷歌翻译更准确【推荐谷歌翻译】
+6. 程序使用ASP压缩壳，如果存在误报请自行忽略
 
 下载：
 
