@@ -1,7 +1,7 @@
 # PandaOCR
 PandaOCR - 更适合游戏的OCR
 
-2018-05-30 更新
+2018-06-01 更新
 
 功能：
 1. 支持OCR引擎：百度OCR+有道OCR+腾讯OCR+搜狗OCR
