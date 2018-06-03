@@ -22,4 +22,7 @@ PandaOCR - 更适合游戏的OCR
 https://github.com/miaomiaosoft/PandaOCR/releases
 
 ![image](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/002.png)
+
+![image](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/003.png)
+
 ![image](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/001.jpg)
