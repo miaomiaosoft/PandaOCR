@@ -32,8 +32,10 @@ PandaOCR - 多功能OCR识别+翻译+朗读+弹窗
 
 https://github.com/miaomiaosoft/PandaOCR/releases
 
+展开状态：
+![image](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/2019-02-11_191427.jpg)
+
+
 收缩状态：
 ![image](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/2019-02-11_030328.jpg)
 
-展开状态：
-![image](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/2019-02-11_030449.jpg)
