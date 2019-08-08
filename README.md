@@ -30,13 +30,13 @@
 
 ------------
 
-#### 接口申请：
+#### API版接口申请：
 
  - 搜狗OCR/翻译：http://deepi.sogou.com
  
- - 腾讯OCR/翻译：https://ai.qq.com [腾讯云翻译：https://cloud.tencent.com]
+ - 腾讯OCR：https://ai.qq.com 腾讯云翻译：https://cloud.tencent.com 腾讯翻译君：https://ai.qq.com
  
- - 百度OCR/翻译：https://cloud.baidu.com [百度翻译：http://api.fanyi.baidu.com]
+ - 百度OCR：https://cloud.baidu.com 百度翻译：http://api.fanyi.baidu.com
  
  - 有道OCR/翻译：http://ai.youdao.com
 
