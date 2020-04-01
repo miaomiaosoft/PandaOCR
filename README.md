@@ -4,6 +4,9 @@
 ##### 2020-04-01 更新
 ------------
 
+#### 试试捐助：
+(https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/BaiduShurufa_2020-4-1_22-31-21.jpg "微信捐助")
+
 #### 功能介绍：
 
 - 支持识别引擎：搜狗OCR/API+腾讯OCR/API+百度OCR/API+有道OCR/API+京东OCR
