@@ -5,7 +5,7 @@
 ------------
 
 #### 试试捐助：
-- 偶尔有用户建议启用捐助以延长软件后续更新，那我就试一试，同时也好奇这个本是自用的工具会有多少人喜欢，谢谢！
+- 偶尔有用户建议启用捐助以延长软件后续更新，那我就试一试，同时也很好奇这个本是自用的工具会有多少人支持，谢谢！
 
 [![微信捐助](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/BaiduShurufa_2020-4-1_22-31-21.jpg "微信捐助")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/BaiduShurufa_2020-4-1_22-31-21.jpg "微信捐助")
 
