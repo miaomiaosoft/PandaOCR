@@ -5,8 +5,7 @@
 ------------
 
 #### 试试捐助：
-[![微信捐助](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/BaiduShurufa_2020-4-1_22-31-21.jpg "微信捐助")]
-(https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/BaiduShurufa_2020-4-1_22-31-21.jpg "微信捐助")
+[![微信捐助](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/BaiduShurufa_2020-4-1_22-31-21.jpg "微信捐助")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/BaiduShurufa_2020-4-1_22-31-21.jpg "微信捐助")
 
 #### 功能介绍：
 
