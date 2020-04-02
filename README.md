@@ -5,7 +5,7 @@
 ------------
 
 #### 试试捐助：
-- 偶尔有用户建议启用捐助以延长软件后续更新，那我就试一试，同时也很好奇这个本是自用的工具会有多少人支持，谢谢！
+- 偶尔有用户建议启用捐助以延长软件后续更新维护，那我就试一试，同时也很好奇这个本是自用的工具会有多少人喜欢和支持，谢谢！
 
 [![捐助](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")
 
