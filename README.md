@@ -9,6 +9,8 @@
 
 [![捐助](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")
 
+------------
+
 #### 功能介绍：
 
 - 支持识别引擎：搜狗OCR/API+腾讯OCR/API+百度OCR/API+有道OCR/API+京东OCR
