@@ -35,6 +35,12 @@
 
 ------------
 
+#### 使用教程：
+
+- 游戏识别类：https://www.bilibili.com/video/BV1Vt4y1U7Es/
+
+------------
+
 #### API版接口申请：
 
  - 搜狗OCR/翻译：http://deepi.sogou.com
