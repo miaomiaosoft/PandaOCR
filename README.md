@@ -2,6 +2,15 @@
 
 <VER：2.51>
 ##### 2020-04-04 更新
+
+------------
+
+#### 特别说明：
+- 本次更新为特别版本，我们不能忘记那些应该被所有人记住的人，他们是平凡人，也是英雄！
+- 这是最好的时代也是最坏的时代，人人都能成为英雄的时代！
+
+[![0404](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/0404.png "0404")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/0404.png "0404")
+
 ------------
 
 #### 试试捐助：
