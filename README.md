@@ -15,7 +15,7 @@
 
 #### 试试捐助：
 - 如果此工具能在工作或是游戏娱乐中帮助到你，请考虑捐助以延续更长时间的维护更新，谢谢！ [捐助列表](https://github.com/miaomiaosoft/PandaOCR/issues/109 "捐助列表")
-- 基于共享精神，此工具将会一直保持免费使用！
+- 基于共享精神，此工具将会一直保持免费使用！盗卖淘宝店铺：淘逃桃陶掏
 
 [![捐助](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")
 
