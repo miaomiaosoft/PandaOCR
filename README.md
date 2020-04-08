@@ -6,16 +6,13 @@
 ------------
 
 #### 特别说明：
-- 本次更新为特别版本，我们不能忘记那些应该被所有人记住的人，他们是平凡人，也是英雄！
-- 这是最好的时代也是最坏的时代，人人都能成为英雄的时代！
-
-[![0404](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/0404.png "0404")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/0404.png "0404")
+- 本软件免费使用，请不要盗卖或购买，已购买请退款，盗卖店铺：智升设计（淘逃桃陶掏）
 
 ------------
 
 #### 试试捐助：
 - 如果此工具能在工作或是游戏娱乐中帮助到你，请考虑捐助以延续更长时间的维护更新，谢谢！ [捐助列表](https://github.com/miaomiaosoft/PandaOCR/issues/109 "捐助列表")
-- 基于共享精神，此工具将会一直保持免费使用！盗卖淘宝店铺：智升设计 - 淘逃桃陶掏
+- 基于共享精神，此工具将会一直保持免费使用！
 
 [![捐助](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")
 
