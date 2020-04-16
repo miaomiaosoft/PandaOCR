@@ -3,16 +3,11 @@
 <VER：2.51>
 ##### 2020-04-04 更新
 
-------------
-
-#### 特别说明：
-- 本软件免费使用，请不要盗卖或购买，已购买请退款，盗卖店铺：智升设计（淘逃桃陶掏）
 
 ------------
 
 #### 试试捐助：
-- 如果此工具能在工作或是游戏娱乐中帮助到你，请考虑捐助以延续更长时间的维护更新，谢谢！ [捐助列表](https://github.com/miaomiaosoft/PandaOCR/issues/109 "捐助列表")
-- 此工具将会一直保持免费使用！
+- 如果此工具能在工作学习或是游戏娱乐中帮助到你，请考虑捐助以延续更长时间的维护更新，谢谢！ [捐助列表](https://github.com/miaomiaosoft/PandaOCR/issues/109 "捐助列表")
 
 [![捐助](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")
 
