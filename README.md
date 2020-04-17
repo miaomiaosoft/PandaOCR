@@ -1,13 +1,14 @@
 ## PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗
 
-<VER：2.51>
-##### 2020-04-04 更新
+<VER：2.52>
+##### 2020-04-17 更新
 
 
 ------------
 
-#### 试试捐助：
+#### 捐助支持：
 - 如果此工具能在工作学习或是游戏娱乐中帮助到你，请考虑捐助以延续更长时间的维护更新，谢谢！ [捐助列表](https://github.com/miaomiaosoft/PandaOCR/issues/109 "捐助列表")
+- 此工具将会一直保持免费使用，但只有你的支持我才有继续更新的动力！
 
 [![捐助](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")
 
