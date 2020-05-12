@@ -6,14 +6,14 @@
 ------------
 
 #### 特别声明：
-- 最近发现有人私自为PandaOCR建立了所谓的“熊猫OCR官网”，网址：pdocr点com
-- 特此声明本工具一直只在Github更新，目前并没有官网，请勿上当！
+- 最近发现有位奇人私自为PandaOCR建立了所谓的“熊猫OCR官网”，里面的联系方式多了个我不认识的人，网址：pdocr点com
+- 特此声明本工具一直只在Github发布和更新，目前并没有官网，请勿上当！
 
 ------------
 
 #### 捐助支持：
 - 如果此工具能在工作学习或是游戏娱乐中帮助到你，请考虑捐助以延续更长时间的维护更新，谢谢！PandaOCR因你而更好！ [捐助列表](https://github.com/miaomiaosoft/PandaOCR/issues/109 "捐助列表")
-- 此工具将会一直保持免费使用，你的支持会是我继续更新的动力！
+- 此工具将会一直保持免费使用，您的支持会是我继续更新的动力！
 
 [![捐助](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/200222355.png "捐助")
 
