@@ -73,6 +73,7 @@
 #### 使用教程：
 
 - 游戏机翻：https://www.bilibili.com/video/BV1Vt4y1U7Es/
+- 接口申请：https://www.bilibili.com/video/BV1Vt4y1U7Es?p=2
 - 基础操作：https://www.bilibili.com/video/BV1UV411d7zh
 - 基础操作：https://www.bilibili.com/video/BV15k4y1z7Vp
 
