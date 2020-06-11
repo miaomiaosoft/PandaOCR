@@ -125,6 +125,7 @@
 #### 问题反馈：
 
 - 论坛反馈：https://github.com/miaomiaosoft/PandaOCR/issues
+- QQ群反馈：https://jq.qq.com/?_wv=1027&k=5XjJmJ5
 
 ------------
 
