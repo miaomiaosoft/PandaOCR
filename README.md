@@ -115,8 +115,11 @@
 ------------
 
 #### 程序下载：
-[https://github.com/miaomiaosoft/PandaOCR/releases](https://github.com/miaomiaosoft/PandaOCR/releases "https://github.com/miaomiaosoft/PandaOCR/releases")
 
+- 更新日志：[https://github.com/miaomiaosoft/PandaOCR/releases](https://github.com/miaomiaosoft/PandaOCR/releases "https://github.com/miaomiaosoft/PandaOCR/releases")
+- 蓝奏网盘：https://miao520.lanzous.com/b015f3htg
+- 百度网盘：https://pan.baidu.com/s/1DecMneZWU5XVz7AMyW_rJw 提取码：s75w
+- 微云网盘：https://share.weiyun.com/5DllWfF
 ------------
 
 #### 问题反馈：
