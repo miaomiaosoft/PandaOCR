@@ -70,12 +70,28 @@
 
 #### API版接口申请（默认使用免费的演示版）：
 
- - 搜狗OCR/翻译：http://deepi.sogou.com （送100元体验金，且只可用于翻译）
- - 腾讯OCR：https://ai.qq.com （免费） 腾讯云翻译君：https://cloud.tencent.com （5百万字符/月免费） 腾讯AI翻译君：https://ai.qq.com （免费，不推荐）
- - 百度OCR：https://cloud.baidu.com （50000次/天免费） 百度翻译：http://api.fanyi.baidu.com （完全免费） 百度公式：（免费使用1000次） 百度表格：（50次/天免费）
- - 有道OCR/翻译：http://ai.youdao.com （送50元体验金）
- - Deepl翻译：https://www.deepl.com/translator （付费还挺贵）
+##### 搜狗：
+ - OCR：http://deepi.sogou.com （无免费）
+ - 翻译：http://deepi.sogou.com （送100元体验金）
 
+##### 腾讯：
+ - OCR：https://ai.qq.com （免费）
+ - 腾讯云翻译：https://cloud.tencent.com （5百万字符/月免费）
+ - 腾讯AI翻译：https://ai.qq.com （免费，不推荐）
+
+##### 百度：
+ - OCR：https://cloud.baidu.com （50000次/天免费）
+ - 翻译：http://api.fanyi.baidu.com （完全免费）
+ - 公式：https://cloud.baidu.com （免费使用1000次）
+ - 表格：https://cloud.baidu.com （50次/天免费）
+
+##### 有道：
+ - OCR：http://ai.youdao.com （送50元体验金）
+ - 翻译：http://ai.youdao.com （送50元体验金）
+
+##### Deepl：
+ - 翻译：https://www.deepl.com/translator （付费还挺贵）
+ 
 ------------
 
 #### 特别说明：
