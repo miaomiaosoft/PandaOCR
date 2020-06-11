@@ -70,9 +70,9 @@
 
 #### API版接口申请（默认使用免费的演示版）：
 
- - 搜狗OCR/翻译：http://deepi.sogou.com （送100体验金，且只可用于翻译）
- - 腾讯OCR：https://ai.qq.com （免费） 腾讯云翻译君：https://cloud.tencent.com （每月免费限额5百万字符） 腾讯AI翻译君：https://ai.qq.com （免费，不推荐）
- - 百度OCR：https://cloud.baidu.com （50000次/天免费限额） 百度翻译：http://api.fanyi.baidu.com （完全免费） 百度公式：（免费1000使用次数） 百度表格：（50次/天免费）
+ - 搜狗OCR/翻译：http://deepi.sogou.com （送100元体验金，且只可用于翻译）
+ - 腾讯OCR：https://ai.qq.com （免费） 腾讯云翻译君：https://cloud.tencent.com （5百万字符/月免费） 腾讯AI翻译君：https://ai.qq.com （免费，不推荐）
+ - 百度OCR：https://cloud.baidu.com （50000次/天免费） 百度翻译：http://api.fanyi.baidu.com （完全免费） 百度公式：（免费使用1000次） 百度表格：（50次/天免费）
  - 有道OCR/翻译：http://ai.youdao.com （送50元体验金）
  - Deepl翻译：https://www.deepl.com/translator （付费还挺贵）
 
@@ -80,7 +80,7 @@
 
 #### 特别说明：
 
-- 程序使用压缩壳减小文件体积，如有误报请自行加入白名单无恶意代码，程序访问的所有服务器都是上面这些引擎需要调用的，可自行验证
+- 程序使用压缩壳减小文件体积无恶意代码，如有误报请自行加入白名单，程序访问的所有服务器都是上面这些引擎需要调用的，可自行验证（曾提交火绒人工检测为安全）
 - 程序的开发与发布均在NOD32杀软保护的环境中完成，如果使用过程中，您系统中某种“安全”软件称「发现木马」，那么此种情形将考验您的判断力
 - 已知在高分辨率/高分屏下截图功能异常 [[尝试解决方法]](https://github.com/miaomiaosoft/PandaOCR/issues/17 "[尝试解决方法]")
 - 如需使用自己申请的ID和KEY，用文本编辑器打开程序目录下的CONFIG.ini文件，在[数据配置]项，将各版本后面数值设为1（0为演示版），并修改下面相应的ID和KEY
