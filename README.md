@@ -68,6 +68,7 @@
 ------------
 
 #### 使用教程：
+- 官方教程：https://github.com/miaomiaosoft/PandaOCR/wiki
 
 - 游戏机翻：https://www.bilibili.com/video/BV1Vt4y1U7Es/
 - 接口申请：https://www.bilibili.com/video/BV1Vt4y1U7Es?p=2
