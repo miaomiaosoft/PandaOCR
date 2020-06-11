@@ -20,19 +20,23 @@
 
 #### 功能介绍：
 
-- 支持识别引擎：搜狗OCR/API+腾讯OCR/API+百度OCR/API+有道OCR/API+京东OCR
+- 支持识别引擎：搜狗OCR/API+腾讯OCR/API+百度OCR/API+有道OCR/API+京东OCR+华为OCR+网易OCR+讯飞OCR+灵云OCR+飞桨OCR+合合OCR+网校OCR+必应OCR+SpaceOCR+YandexOCR
 
-- 支持翻译引擎：搜狗翻译/API+腾讯翻译/API+百度翻译/API+有道翻译/API+谷歌翻译+词霸翻译+必应翻译+沪江翻译+剑桥翻译+奇虎翻译+海词翻译+彩云翻译
+- 支持公式识别：微软公式+百度公式API
 
-- 支持朗读引擎：搜狗朗读+腾讯朗读+百度朗读+必应朗读+讯飞朗读+谷歌朗读+京东朗读
+- 支持表格识别：百度表格API
+
+- 支持翻译引擎：搜狗翻译/API+腾讯翻译/API+百度翻译/API+有道翻译/API+谷歌翻译+词霸翻译+必应翻译+沪江翻译+奇虎翻译+海词翻译+小牛翻译+彩云翻译+福昕翻译+欧米翻译+微软翻译+阿里翻译+云译翻译+欧路翻译+灵云翻译+Deepl翻译API+PaPaGo翻译
+
+- 支持朗读引擎：搜狗朗读x4+腾讯朗读x5+百度朗读x6+京东朗读x2+有道朗读x2+知声朗读x7+讯飞朗读+谷歌朗读+必应朗读
 
 - 支持快捷键和屏幕边角触发截图识别功能，方便快速
 
 - 支持截取识别固定区域，适合日语类游戏机翻或生肉字幕机翻
 
-- 支持右侧小弹窗显示文本信息，快速查看识别/翻译内容
+- 支持右侧小弹窗预览文本信息，快速查看识别/翻译内容
 
-- 支持智能合并修正识别/翻译文本，让排版更合理，提高翻译质量
+- 支持智能合并修正文本，让排版更合理，并提高翻译质量
 
 - 支持设置最多十条固定截图规则，每条规则都能有自己的快捷键
 
@@ -46,6 +50,8 @@
 
 #### 使用技巧：
 
+先透露一些技巧，看完这些我觉得你将不再需要使用教程：
+
 - 将鼠标移到各功能组件或按钮上会显示简单的悬停提示帮助你理解程序操作。
 - 配置文件内已添加各功能注释说明，如果想要实现某种功能但在程序界面上没找到相关设置，可以先翻一翻配置文件或许它已经在那里等着你（程序目录下CONFIG.ini即是配置文件）。
 - 如果你有两块屏幕，请勾选“高级截图方式”以解决无法截取第二块屏的问题。
@@ -53,7 +59,7 @@
 - 程序界面上存在的设置多数是可以实时生效的不需要频繁点击保存按钮，比如设置语言、更换引擎此类。
 - 有时手工更改了配置文件又不想重启软件可以试试右键点击界面左上角图标重载配置，不要点左键。
 - 从演示版引擎临时更改为API版引擎可以右键点击引擎选择组合框。
-- 鼠标党如果觉得按快捷键识别麻烦可以把鼠标移到屏幕左上角来触发识别，默认配置已启用，也可以编辑配置文件关闭或改为其他位置。
+- 鼠标党如果觉得按快捷键识别麻烦可以把鼠标移到屏幕左上角来触发识别，默认配置已启用，也可以编辑配置文件关闭或改为其他位置（配置项：边角触发截图）。
 - 在截图时按住CTRL键可以临时取消识别，只截图并复制至剪贴板。
 - 在截图时按住ALT键可以临时取消修正文本，当识别图像的文本中不包含任何标点符号时建议这样使用。
 - 在文本区输入文本后按CTRL+回车键会直接翻译，不需要再用鼠标点翻译按钮。
@@ -79,13 +85,15 @@
 
 #### API版接口申请（默认使用免费的演示版）：
 
- - 搜狗OCR/翻译：http://deepi.sogou.com
+ - 搜狗OCR/翻译：http://deepi.sogou.com （送100体验金，且只可用于翻译）
  
- - 腾讯OCR：https://ai.qq.com 腾讯云翻译：https://cloud.tencent.com 腾讯翻译君：https://ai.qq.com
+ - 腾讯OCR：https://ai.qq.com （免费） 腾讯云翻译君：https://cloud.tencent.com （每月免费限额5百万字符） 腾讯AI翻译君：https://ai.qq.com （免费，不推荐）
  
- - 百度OCR：https://cloud.baidu.com 百度翻译：http://api.fanyi.baidu.com
+ - 百度OCR：https://cloud.baidu.com （50000次/天免费限额） 百度翻译：http://api.fanyi.baidu.com （完全免费） 百度公式：（免费1000使用次数） 百度表格：（50次/天免费）
  
- - 有道OCR/翻译：http://ai.youdao.com
+ - 有道OCR/翻译：http://ai.youdao.com （送50元体验金）
+ 
+ - Deepl翻译：https://www.deepl.com/translator （付费还挺贵）
 
 ------------
 
@@ -108,16 +116,16 @@
 
 ------------
 
-#### 下载文件：
+#### 程序下载：
 [https://github.com/miaomiaosoft/PandaOCR/releases](https://github.com/miaomiaosoft/PandaOCR/releases "https://github.com/miaomiaosoft/PandaOCR/releases")
 
 ------------
 
-**[问题反馈](https://github.com/miaomiaosoft/PandaOCR/issues "问题反馈")**
+#### 问题反馈：
+
+- 论坛反馈：https://github.com/miaomiaosoft/PandaOCR/issues
 
 ------------
 
 #### 程序截图：
 [![收缩状态](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE1.png "收缩状态")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE1.png "收缩状态")
-
-[![展开状态](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE2.png "展开状态")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE2.png "展开状态")
