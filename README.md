@@ -133,7 +133,7 @@
 #### 问题反馈：
 
 - 论坛反馈：https://github.com/miaomiaosoft/PandaOCR/issues
-- QQ群反馈：https://jq.qq.com/?_wv=1027&k=5XjJmJ5
+- QQ群反馈：https://jq.qq.com/?_wv=1027&k=5XjJmJ5 （加群前请确认自己完整的看过一遍使用技巧，因为我发现进群提问99%的问题都在技巧里）
 
 ------------
 
