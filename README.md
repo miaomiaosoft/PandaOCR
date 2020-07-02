@@ -78,12 +78,12 @@
 ##### 腾讯：
  - OCR：https://ai.qq.com （免费）
  - 腾讯云翻译：https://cloud.tencent.com （5百万字符/月免费）
- - 腾讯AI翻译：https://ai.qq.com （免费，不推荐）
+ - 腾讯AI翻译：https://ai.qq.com （免费，不推荐，质量不如腾讯云）
 
 ##### 百度：
  - OCR：https://cloud.baidu.com （50000次/天免费）
- - 翻译：http://api.fanyi.baidu.com （完全免费）
- - 公式：https://cloud.baidu.com （免费使用1000次）
+ - 翻译：http://api.fanyi.baidu.com （免费）
+ - 公式：https://cloud.baidu.com （1000次免费）
  - 表格：https://cloud.baidu.com （50次/天免费）
 
 ##### 有道：
@@ -91,7 +91,10 @@
  - 翻译：http://ai.youdao.com （送50元体验金）
 
 ##### Deepl：
- - 翻译：https://www.deepl.com/translator （付费还挺贵）
+ - 翻译：https://www.deepl.com/translator （付费且服务器延迟较高）
+
+##### Mathpix：
+ - 公式：https://dashboard.mathpix.com/ （1000次/月免费） 
  
 ------------
 
