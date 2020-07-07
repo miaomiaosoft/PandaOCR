@@ -103,10 +103,10 @@
  - 翻译：http://deepi.sogou.com （送100元体验金）
 
 ##### 腾讯：
- - OCR：https://cloud.tencent.com/ （1000次/月免费 | 腾讯云/腾讯AI 新版接口）
- - OCR：https://ai.qq.com/v1/ （免费 | 腾讯AI 旧版接口）
- - 腾讯云翻译：https://cloud.tencent.com （5百万字符/月免费）
- - 腾讯AI翻译：https://ai.qq.com （免费，不推荐，质量不如腾讯云）
+ - OCR：https://cloud.tencent.com/ （1000次/月免费 | 腾讯云接口）
+ - OCR：https://ai.qq.com/v1/ （免费 | 腾讯AI旧版接口）
+ - 翻译：https://cloud.tencent.com （5百万字符/月免费 | 腾讯云接口）
+ - 翻译：https://ai.qq.com/v1/ （免费，不推荐，质量不如腾讯云 | 腾讯AI旧版接口）
  - 公式：https://cloud.tencent.com/ （1000次/月免费 | 腾讯云接口）
  - 表格：https://cloud.tencent.com/ （1000次/月免费 | 腾讯云接口）
 
