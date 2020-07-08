@@ -120,6 +120,10 @@
  - OCR：http://ai.youdao.com （送50元体验金）
  - 翻译：http://ai.youdao.com （送50元体验金）
 
+##### 阿里：
+ - OCR：https://market.aliyun.com/products/57124001/cmapi020020.html （500次/免费）
+ - 表格：https://market.aliyun.com/products/57124001/cmapi024968.html （500次/免费）
+
 ##### Deepl：
  - 翻译：https://www.deepl.com/translator （付费且服务器延迟较高）
 
