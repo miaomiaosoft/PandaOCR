@@ -21,11 +21,11 @@
 
 #### 功能介绍：
 
-- 支持识别引擎：搜狗OCR/API+腾讯OCR/API+百度OCR/API+有道OCR/API+阿里OCR+京东OCR+华为OCR+网易OCR+讯飞OCR+灵云OCR+飞桨OCR+合合OCR+网校OCR+必应OCR+SpaceOCR+YandexOCR
+- 支持识别引擎：搜狗OCR/API+腾讯OCR/API+百度OCR/API+有道OCR/API+阿里OCR/API+京东OCR+华为OCR+网易OCR+讯飞OCR+灵云OCR+飞桨OCR+合合OCR+网校OCR+必应OCR+SpaceOCR+YandexOCR
 
 - 支持公式识别：微软公式+百度公式API+腾讯公式API+Mathpix公式API+网校公式+阿里公式
 
-- 支持表格识别：有道表格+百度表格API+腾讯表格API+阿里表格
+- 支持表格识别：有道表格+百度表格API+腾讯表格API+阿里表格/API
 
 - 支持翻译引擎：搜狗翻译/API+腾讯翻译/API+百度翻译/API+有道翻译/API+谷歌翻译+词霸翻译+必应翻译+沪江翻译+奇虎翻译+海词翻译+小牛翻译+彩云翻译+福昕翻译+欧米翻译+微软翻译+阿里翻译+云译翻译+欧路翻译+灵云翻译+Deepl翻译API+PaPaGo翻译
 
