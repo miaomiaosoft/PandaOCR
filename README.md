@@ -21,7 +21,7 @@
 
 #### 功能介绍：
 
-- 支持识别引擎：搜狗OCR/API+腾讯OCR/API+百度OCR/API+有道OCR/API+阿里OCR/API+京东OCR+华为OCR+网易OCR+讯飞OCR+灵云OCR+飞桨OCR+合合OCR+网校OCR+必应OCR+SpaceOCR+YandexOCR
+- 支持识别引擎：搜狗OCR/API+腾讯OCR/API+百度OCR/API+有道OCR/API+阿里OCR/API+京东OCR+华为OCR+网易OCR+讯飞OCR+金山OCR+灵云OCR+飞桨OCR+合合OCR+网校OCR+易道OCR+薪火OCR+必应OCR+SpaceOCR+YandexOCR
 
 - 支持公式识别：微软公式+百度公式API+腾讯公式API+Mathpix公式API+网校公式+阿里公式
 
