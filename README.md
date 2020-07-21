@@ -130,6 +130,9 @@
 ##### Mathpix：
  - 公式：https://dashboard.mathpix.com/ （1000次/月免费） 
  
+##### SpaceOCR：
+- OCR：https://ocr.space/OCRAPI （25000次/月免费）
+ 
 ------------
 
 #### 隐私安全：
