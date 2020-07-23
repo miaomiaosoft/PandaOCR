@@ -99,8 +99,8 @@
 #### API版接口申请（默认使用免费的演示版）：
 
 ##### 搜狗：
- - OCR：http://deepi.sogou.com （送100元体验金）
- - 翻译：http://deepi.sogou.com （送100元体验金）
+ - OCR：http://deepi.sogou.com （送100/200元体验金 | 可能需要先充点钱才能用）
+ - 翻译：http://deepi.sogou.com （送100/200元体验金）
 
 ##### 腾讯：
  - OCR：https://cloud.tencent.com/ （1000次/月免费 | 腾讯云接口）
