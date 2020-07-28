@@ -124,6 +124,10 @@
  - OCR：https://market.aliyun.com/products/57124001/cmapi020020.html （500次/免费）
  - 表格：https://market.aliyun.com/products/57124001/cmapi024968.html （500次/免费）
 
+##### 讯飞：
+ - OCR：https://www.xfyun.cn/services/textRecg （10万次/免费）
+ - 公式：https://www.xfyun.cn/services/formula-discern
+ 
 ##### Deepl：
  - 翻译：https://www.deepl.com/translator （付费且服务器延迟较高）
 
