@@ -105,6 +105,7 @@
 ##### 腾讯：
  - OCR：https://cloud.tencent.com/ （1000次/月免费 | 腾讯云接口）
  - OCR：https://ai.qq.com/v1/ （免费 | 腾讯AI旧版接口）
+ - OCR：https://open.youtu.qq.com/ （500次/天免费 | 腾讯优图接口）
  - 翻译：https://cloud.tencent.com （5百万字符/月免费 | 腾讯云接口）
  - 翻译：https://ai.qq.com/v1/ （免费，不推荐，质量不如腾讯云 | 腾讯AI旧版接口）
  - 公式：https://cloud.tencent.com/ （1000次/月免费 | 腾讯云接口）
