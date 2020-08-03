@@ -12,7 +12,7 @@
 
 #### 捐助支持：
 - 如果此工具能在工作学习或是游戏娱乐中帮助到你，请考虑捐助以延续更长时间的维护更新，谢谢！ [捐助列表](https://github.com/miaomiaosoft/PandaOCR/issues/109 "捐助列表")
-- 为了表示感谢，对于捐助过的朋友现在可以附赠您一个KEY用来激活捐助版专享功能，如果需要可以随时联系作者，谢谢！
+- 为了表示感谢，对于捐助过的朋友现在可以附赠您一个KEY用来激活捐助版专享功能，如果需要可以随时联系作者！
 - 如果无法显示捐助二维码，请在软件内捐助或打开此链接：https://gitee.com/DDDDDGOOO/PandaOCR/raw/master/images/200222355.png
 
 [![捐助](http://gitee.com/DDDDDGOOO/PandaOCR/raw/master/images/200222355.png "捐助")](http://gitee.com/DDDDDGOOO/PandaOCR/raw/master/images/200222355.png "捐助")
