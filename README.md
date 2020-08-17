@@ -11,7 +11,7 @@
 ------------
 
 #### 捐助支持：
-- PandaOCR从2018年发布至今一直在用爱发电，现在它需要您的支持！如果此工具能帮助到你请考虑捐助让它能持续更新维护，谢谢！ [捐助列表](https://github.com/miaomiaosoft/PandaOCR/issues/109 "捐助列表")
+- PandaOCR从2018年发布至今一直在用爱发电，现在它需要您的支持！如果此工具能帮助到你，请考虑捐助让它能持续更新维护，谢谢！ [捐助列表](https://github.com/miaomiaosoft/PandaOCR/issues/109 "捐助列表")
 - 为了表示感谢，对于捐助过的朋友现在可以附赠您一个KEY用来激活捐助版专享功能，如果需要可以随时联系作者！
 - 如果无法显示捐助二维码，请在软件内捐助或打开此链接：https://gitee.com/DDDDDGOOO/PandaOCR/raw/master/images/200222355.png
 
