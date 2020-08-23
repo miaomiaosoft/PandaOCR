@@ -130,11 +130,14 @@
  - OCR：https://www.xfyun.cn/services/textRecg （10万次/免费）
  - 公式：https://www.xfyun.cn/services/formula-discern
  
+##### 网校（学而思）：
+ - OCR：https://ai.xueersi.com （10万次/天免费 | 10秒间隔/次）
+
 ##### Deepl：
  - 翻译：https://www.deepl.com/translator （付费且服务器延迟较高）
 
 ##### Mathpix：
- - 公式：https://dashboard.mathpix.com/ （1000次/月免费） 
+ - 公式：https://dashboard.mathpix.com （1000次/月免费） 
  
 ##### SpaceOCR：
 - OCR：https://ocr.space/OCRAPI （25000次/月免费）
