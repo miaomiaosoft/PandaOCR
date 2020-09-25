@@ -12,8 +12,7 @@
 
 #### 捐助支持：
 - PandaOCR从2018年发布至今一直在用爱发电，现在它需要您的支持！如果此工具能帮助到你，请考虑捐助让它能持续更新维护，谢谢！ [捐助列表](https://github.com/miaomiaosoft/PandaOCR/issues/109 "捐助列表")
-- 为了表示感谢，对于捐助过的朋友现在可以附赠您一个KEY用来激活捐助版专享功能，如果需要可以随时联系作者！
-- 接受捐助而不是变成收费工具只是单纯想得到您的认可，并希望大家可以自由选择，您可以选择不捐助继续免费使用，但如果捐助请不要只为得到KEY而象征性的赏几毛几分，拜托了！
+- 为了表示感谢，对于捐助过的朋友现在可以额外附赠您一个KEY用来激活新增的捐助版专享功能，如果需要可以随时联系作者！
 - 如果无法显示捐助二维码，请在软件内捐助或打开此链接：https://gitee.com/DDDDDGOOO/PandaOCR/raw/master/images/200222355.png
 
 [![捐助](http://gitee.com/DDDDDGOOO/PandaOCR/raw/master/images/200222355.png "捐助")](http://gitee.com/DDDDDGOOO/PandaOCR/raw/master/images/200222355.png "捐助")
@@ -130,8 +129,9 @@
  - OCR：https://www.xfyun.cn/services/textRecg （10万次/免费）
  - 公式：https://www.xfyun.cn/services/formula-discern
  
-##### 网校（学而思）：
- - OCR：https://ai.xueersi.com （10万次/天免费 | 10秒间隔/次）
+##### 网校（学而思/好未来）：
+ - OCR：https://ai.xueersi.com （10万次/天免费 | 10秒间隔/次 | 网站已转移）
+ - OCR：https://ai.100tal.com （新站）
 
 ##### Deepl：
  - 翻译：https://www.deepl.com/translator （付费且服务器延迟较高）
