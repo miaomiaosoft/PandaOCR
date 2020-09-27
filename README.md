@@ -187,4 +187,6 @@
 ------------
 
 #### 程序截图：
-[![收缩状态](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE1.png "收缩状态")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE1.png "收缩状态")
+[![默认界面](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE1.png "默认界面")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE1.png "默认界面")
+
+[![暗色界面](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE3.png "暗色界面")](https://raw.githubusercontent.com/miaomiaosoft/PandaOCR/master/images/AeroSnap%E6%88%AA%E5%9B%BE3.png "暗色界面")
