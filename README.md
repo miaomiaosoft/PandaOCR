@@ -122,7 +122,10 @@
  - 翻译：http://ai.youdao.com （送50元体验金）
 
 ##### 阿里：
- - OCR：https://market.aliyun.com/products/57124001/cmapi020020.html （500次/免费）
+ - OCR：https://market.aliyun.com/products/57124001/cmapi020020.html （通用版 | 500次/免费）
+ - OCR：https://market.aliyun.com/products/57124001/cmapi028554.html （高精度 | 500次/免费）
+ - OCR：https://market.aliyun.com/products/57124001/cmapi00040832.html （手写版 | 500次/免费）
+ - OCR：https://market.aliyun.com/products/57124001/cmapi00040847.html （多语种 | 500次/免费）
  - 表格：https://market.aliyun.com/products/57124001/cmapi024968.html （500次/免费）
 
 ##### 讯飞：
@@ -130,7 +133,7 @@
  - 公式：https://www.xfyun.cn/services/formula-discern
  
 ##### 网校（学而思/好未来）：
- - OCR：https://ai.xueersi.com （10万次/天免费 | 10秒间隔/次 | 网站已转移）
+ - OCR：https://ai.xueersi.com （10万次/天免费 | 10秒间隔/次 | 旧站）
  - OCR：https://ai.100tal.com （新站）
 
 ##### Deepl：
