@@ -96,7 +96,8 @@
 
 ------------
 
-#### API版接口申请（默认使用免费的演示版）：
+#### API版接口申请（默认使用免费的演示版 | [演示版和API版区别](https://github.com/miaomiaosoft/PandaOCR/wiki/%E6%BC%94%E7%A4%BA%E7%89%88%E5%92%8CAPI%E7%89%88%E5%BC%95%E6%93%8E%E6%8E%A5%E5%8F%A3 "演示版和API版区别")）：
+
 
 ##### 搜狗：
  - OCR：http://deepi.sogou.com （送100/200元体验金 | 可能需要先充点钱才能用）
