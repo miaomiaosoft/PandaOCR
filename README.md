@@ -1,7 +1,7 @@
 ## PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 
-<VER：2.65>
-##### 2020-09-25 更新
+<VER：2.66>
+##### 2020-11-19 更新
 
 ------------
 
@@ -186,7 +186,7 @@
 #### 问题反馈：
 
 - 论坛反馈：https://github.com/miaomiaosoft/PandaOCR/issues
-- QQ群反馈：https://jq.qq.com/?_wv=1027&k=5XjJmJ5 
+- QQ群反馈：https://jq.qq.com/?_wv=1027&k=5XjJmJ5
 
 ------------
 
