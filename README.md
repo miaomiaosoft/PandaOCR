@@ -178,8 +178,8 @@
 #### 程序下载：
 
 - 更新日志：[https://github.com/miaomiaosoft/PandaOCR/releases](https://github.com/miaomiaosoft/PandaOCR/releases "https://github.com/miaomiaosoft/PandaOCR/releases")
-- 蓝奏网盘：https://miao520.lanzous.com/b015f3htg
-- 百度网盘：https://pan.baidu.com/s/1DecMneZWU5XVz7AMyW_rJw 提取码：s75w
+- 蓝奏网盘：https://miao520.lanzoui.com/b015f3htg
+- 百度网盘：https://pan.baidu.com/s/11a0BBVriXMMLhi0dV3Srsg 提取码: 5azr
 - 微云网盘：https://share.weiyun.com/5DllWfF
 ------------
 
