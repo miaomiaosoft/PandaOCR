@@ -5,13 +5,13 @@
 
 ------------
 
-#### 特别声明：
-- 本工具一直只在Github发布和更新，目前并没有所谓PandaOCR官网或熊猫OCR官网，从其他网站下载的PandaOCR请自行验证安全性！
+#### 专业版本：
+- 🥇目前全新重构的PandaOCR.Pro专业版已发布，它更快速稳定、接口更丰富、操作更简单，推荐您使用！ [查看PandaOCR.Pro专业版](https://gitee.com/DDDDDGOOO/PandaOCR.Pro)
 
 ------------
 
-#### 专业版本：
-- 🥇目前全新重构的PandaOCR.Pro专业版已发布，它更快速稳定、接口更丰富、操作更简单，推荐您使用！ [查看PandaOCR.Pro专业版](https://gitee.com/DDDDDGOOO/PandaOCR.Pro)
+#### 特别声明：
+- 本工具一直只在Github发布和更新，目前并没有所谓PandaOCR官网或熊猫OCR官网，从其他网站下载的PandaOCR请自行验证安全性！
 
 ------------
 
