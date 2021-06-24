@@ -6,7 +6,7 @@
 ------------
 
 #### 专业版本：
-- 🥇目前全新重构的PandaOCR.Pro专业版已发布，它更快速稳定、接口更丰富、操作更简单，推荐您使用！ [查看PandaOCR.Pro专业版](https://gitee.com/DDDDDGOOO/PandaOCR.Pro)
+- 🥇目前全新重构的PandaOCR.Pro专业版已发布，它更快速稳定、接口更丰富、操作更简单，推荐您使用！ [查看PandaOCR.Pro专业版](https://github.com/miaomiaosoft/PandaOCR.Pro)
 
 ------------
 
