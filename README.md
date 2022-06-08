@@ -4,6 +4,7 @@
 ##### 2022-03-16 更新
 
 ------------
+# [推荐使用最新的PandaOCR.Pro专业版](https://github.com/miaomiaosoft/PandaOCR.Pro)
 
 #### 专业版本：
 - 🥇目前全新重构的PandaOCR.Pro专业版已发布，它更快速稳定、接口更丰富、操作更简单，推荐您使用！ [查看PandaOCR.Pro专业版](https://github.com/miaomiaosoft/PandaOCR.Pro)
